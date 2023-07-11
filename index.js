@@ -3,6 +3,7 @@ const app = require('./app');
 const arr=[2,4,6,2,4,6,3,0];
 
 arr.filter((item)=>{
+	
 	console.log(item)
 })
 // console.log(app.z());
